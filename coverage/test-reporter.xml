@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="/Users/user/Downloads/NodeSonarExample/src/test/index.test.js">
+        <testCase name="Get Endpoints Get" duration="34"/>
+    </file>
+</testExecutions>
