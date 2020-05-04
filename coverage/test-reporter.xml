@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="/Users/user/SonarQube-Example/src/test/index.test.js">
+        <testCase name="Get Endpoints Get" duration="73"/>
+        <testCase name="Get /api /api" duration="7"/>
+        <testCase name="Post /api/login login status" duration="17"/>
+        <testCase name="Post /api/login login status" duration="6"/>
+        <testCase name="Post /api/posts Create a new posts" duration="12"/>
+        <testCase name="Post /api/posts Create a new posts" duration="7"/>
+        <testCase name="Post /api/posts Create a new posts" duration="3"/>
+    </file>
+</testExecutions>

@@ -6,5 +6,7 @@ Link: https://medium.com/@harith.sankalpa/how-to-integrate-sonarqube-into-your-n
 Docker Image
 docker-compose -f docker-compose.sonar.yml up -d
 
+SonarQube Address: http://localhost:9000/sessions/new
+
 Check Coverage
 npm run sonar
